@@ -3,6 +3,10 @@
 Highly optimized Scala implementation of Chinese Restaurant Process based
 non-parametric Bayesian clustering
 
+## Monsanto blog entry with additional information:
+
+http://engineering.monsanto.com/2015/11/23/chinese-restaurant-process/
+
 ## Include in your project
 
 Add the following to your SBT dependencies:
